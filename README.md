@@ -12,4 +12,4 @@ Ultralytics
 请前往网站自行下载
 
 ### 功能预览
-![效果图片](.\output.png)
+![效果图片](output.png)
