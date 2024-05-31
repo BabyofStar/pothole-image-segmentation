@@ -3,21 +3,14 @@
 
 ### 开发环境
 windows 11  
-
 python 3.11  
-
 Ultralytics  
-
 以及各种库（详见代码）  
 
 
 ### 数据集
 来源于kaggle网站的[Pothole Image Segmentation Dataset](https://www.kaggle.com/datasets/farzadnekouei/pothole-image-segmentation-dataset)  
-
 请前往网站自行下载
-
-### 功能预览
-![效果图片](output.png)
 
 ### 运行代码前的一些准备工作
 #### 设置路径数据
@@ -30,6 +23,7 @@ Ultralytics
 #### 加载视频做推理
 ` videoPath = '/content/Pothole_Segmentation_YOLOv8/sample_video.mp4' `  
 `'/content/Pothole_Segmentation_YOLOv8/sample_video.mp4'`表示存储推理视频的目录。  
-
 ### 运行代码
-`python pothole-image-segmentation.py`
+`python pothole-image-segmentation.py`  
+### 功能预览
+![效果图片](output.png)
