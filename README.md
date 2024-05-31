@@ -30,3 +30,6 @@ Ultralytics
 #### 加载视频做推理
 ` videoPath = '/content/Pothole_Segmentation_YOLOv8/sample_video.mp4' `  
 `'/content/Pothole_Segmentation_YOLOv8/sample_video.mp4'`表示存储推理视频的目录。  
+
+### 运行代码
+`python pothole-image-segmentation.py`
