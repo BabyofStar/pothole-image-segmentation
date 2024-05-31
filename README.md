@@ -23,7 +23,7 @@ Ultralytics
 #### :smirk_cat:加载视频做推理
 ` videoPath = '/content/Pothole_Segmentation_YOLOv8/sample_video.mp4' `  
 `'/content/Pothole_Segmentation_YOLOv8/sample_video.mp4'`表示存储推理视频的目录。  
-### :smirk_cat:运行代码:heart_on_fire:
+### :heart_on_fire:运行代码:heart_on_fire:
 `python pothole-image-segmentation.py`  
 ### :open_mouth:功能预览
 ![效果图片](output.png)
