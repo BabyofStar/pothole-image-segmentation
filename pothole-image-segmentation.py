@@ -52,8 +52,7 @@ results = model.train(
     lr0= 0.0001 ,               # 初始学习率
     lrf= 0.01 ,                 # 最终学习率 (lr0 * lrf)
     dropout = 0.25 ,           # 使用 dropout 正则化
-    device= torch.device("cuda" if torch.cuda.is_available() else "cpu"), # 运行的设备，即 cuda device=0
-    seed= 42
+    device= torch.device("cuda" if torch.cuda.is_available() else "cpu"), # 运行的设备
  )
 
 #%%
