@@ -16,5 +16,5 @@ Ultralytics
 
 ### 运行代码前的一些准备工作
 #### 设置路径数据
-' dataDir = '/content/Pothole_Segmentation_YOLOv8/' '
+` dataDir = '/content/Pothole_Segmentation_YOLOv8/' `
 dataDir目录路径“/content/Pothole_Segmentation_YOLOv8/”的变量。该变量表示存储图像分割任务的数据集的目录。
