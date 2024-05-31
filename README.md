@@ -7,8 +7,9 @@ python 3.11
 Ultralytics
 以及各种库（详见代码）
 
-##数据集
-来源于kaggle网站的This site was built using [GitHub Pages](https://www.kaggle.com/datasets/farzadnekouei/pothole-image-segmentation-dataset)
+## 数据集
+来源于kaggle网站的[Pothole Image Segmentation Dataset](https://www.kaggle.com/datasets/farzadnekouei/pothole-image-segmentation-dataset)
+请前往网站自行下载
 
 ## 功能预览
 ![效果图片](.\output.png)
