@@ -8,4 +8,4 @@ Ultralytics
 以及各种库（详见代码）
 
 ## 功能预览
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./output.png)
+![效果图片](.\output.png)
