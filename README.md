@@ -13,7 +13,7 @@ Ultralytics
 请前往网站自行下载
 
 ### :speak_no_evil:对数据集的预处理有
-:smirk_cat:高斯滤波
+:smirk_cat:高斯滤波  
 :smirk_cat:像素归一化
 
 ### :hear_no_evil:运行代码前的一些准备工作
