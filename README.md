@@ -12,7 +12,7 @@ Ultralytics
 来源于kaggle网站的[Pothole Image Segmentation Dataset](https://www.kaggle.com/datasets/farzadnekouei/pothole-image-segmentation-dataset)  
 请前往网站自行下载
 
-###:speak_no_evil:对数据集的预处理有
+### :speak_no_evil:对数据集的预处理有
 、高斯滤波
 、像素归一化
 
